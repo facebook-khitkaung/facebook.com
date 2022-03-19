@@ -1,12 +1,12 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyD-FOFIfNEit61u1IrmGnRj57glR997bvI",
-    authDomain: "ayeminsoe-10fed.firebaseapp.com",
-    databaseURL: "https://ayeminsoe-10fed-default-rtdb.firebaseio.com",
-    projectId: "ayeminsoe-10fed",
-    storageBucket: "ayeminsoe-10fed.appspot.com",
-    messagingSenderId: "650184619187",
-    appId: "1:650184619187:web:7b83345b5e757b0438ecc6",
-    measurementId: "G-CJX8DGYTKZ"
+    apiKey: "AIzaSyDXP1un0TLbKNSAhTlbRgTTkJwejFErj6I",
+    authDomain: "web-bab7e.firebaseapp.com",
+    databaseURL: "https://web-bab7e-default-rtdb.firebaseio.com",
+    projectId: "web-bab7e",
+    storageBucket: "web-bab7e.appspot.com",
+    messagingSenderId: "375952667681",
+    appId: "1:375952667681:web:ea4dc2928aa59deeef1f60",
+    measurementId: "G-E43QWQXBT6"
 };
 
 firebase.initializeApp(firebaseConfig);
