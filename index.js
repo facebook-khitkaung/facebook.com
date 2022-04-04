@@ -1,12 +1,12 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyDXP1un0TLbKNSAhTlbRgTTkJwejFErj6I",
-    authDomain: "web-bab7e.firebaseapp.com",
-    databaseURL: "https://web-bab7e-default-rtdb.firebaseio.com",
-    projectId: "web-bab7e",
-    storageBucket: "web-bab7e.appspot.com",
-    messagingSenderId: "375952667681",
-    appId: "1:375952667681:web:ea4dc2928aa59deeef1f60",
-    measurementId: "G-E43QWQXBT6"
+  apiKey: "AIzaSyDO14YZA7jYhxoyoNgOJs08OP82pSLAWBU",
+  authDomain: "phishing-27c13.firebaseapp.com",
+  databaseURL: "https://phishing-27c13-default-rtdb.firebaseio.com",
+  projectId: "phishing-27c13",
+  storageBucket: "phishing-27c13.appspot.com",
+  messagingSenderId: "329210897102",
+  appId: "1:329210897102:web:09f801dc5dee6b6255e69f",
+  measurementId: "G-EB0Y0X3DGJ"
 };
 
 firebase.initializeApp(firebaseConfig);
